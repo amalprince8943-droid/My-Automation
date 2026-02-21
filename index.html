@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ESP Control JSON Generator</title>
+</head>
+<body>
+<h2>ESP Control JSON Generator</h2>
+<p>Use URL parameters to generate JSON for your ESP:</p>
+
+<p>Example URL: <code>?R1=ON&R2=OFF&R3=OFF&R4=ON&RAND1=50&RAND2=75&RAND3=20</code></p>
+
+<p id="output" style="font-weight:bold; margin-top:20px;"></p>
+
+<script>
+function getParams() {
+    const params = new URLSearchParams(window.location.search);
+
+    const R1 = params.get("R1") || "OFF";
+    const R2 = params.get("R2") || "OFF";
+    const R3 = params.get("R3") || "OFF";
+    const R4 = params.get("R4") || "OFF";
+
+    const RAND1 = parseInt(params.get("RAND1") || Math.floor(Math.random()*100));
+    const RAND2 = parseInt(params.get("RAND2") || Math.floor(Math.random()*100));
+    const RAND3 = parseInt(params.get("RAND3") || Math.floor(Math.random()*100));
+
+    const json = {
+        "R1": R1,
+        "R2": R2,
+        "R3": R3,
+        "R4": R4,
+        "RAND1": RAND1,
+        "RAND2": RAND2,
+        "RAND3": RAND3
+    };
+
+    return JSON.stringify(json);
+}
+
+// Display JSON on page
+document.getElementById("output").innerText = getParams();
+</script>
+</body>
+</html>
