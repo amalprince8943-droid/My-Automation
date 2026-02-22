@@ -1,5 +1,5 @@
 relay5:1
-relay4:0
+relay4:1
 
 relay1:1
 relay2:1
