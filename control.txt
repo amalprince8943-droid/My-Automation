@@ -4,7 +4,6 @@ relay3:1
 relay4:1
 relay5:0
 relay6:0
-CURRENT_TIME:22:47
 relay7:1
 relay8:1
 relay9:1
@@ -13,3 +12,8 @@ relay11:1
 relay12:1
 relay13:1
 relay14:1
+CURRENT_TIME:22:47
+ROOM1_TIME:11:12
+ROOM2_TIME:12:12
+WATER LEVEL:100
+MOTOR:1
