@@ -1,2 +1,2 @@
-relay5:1
+relay5:0
 relay4:0
