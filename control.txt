@@ -2,6 +2,6 @@ relay1:1
 relay2:1
 relay3:1
 relay4:0
-relay5:1
+relay5:0
 relay6:1
 CURRENT_TIME:21:21
