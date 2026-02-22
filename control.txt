@@ -1,8 +1,7 @@
-relay5:1
+relay1:1
+relay2:1
+relay3:1
 relay4:1
-relay1:0
-relay2:0
-relay3:0
-relay6:0
-
-mtime:0
+relay5:1
+relay6:1
+CURRENT_TIME:11:11
