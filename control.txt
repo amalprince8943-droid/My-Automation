@@ -12,4 +12,4 @@ relay10:1
 relay11:1
 relay12:1
 relay13:1
-relay14:1
+relay14:0
