@@ -3,6 +3,6 @@ relay4:1
 relay1:0
 relay2:0
 relay3:0
-relay6:1
+relay6:0
 
 mtime:0
