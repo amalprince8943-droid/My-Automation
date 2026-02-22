@@ -3,3 +3,4 @@ relay4:1
 
 relay1:1
 relay2:1
+relay3:1
