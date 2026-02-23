@@ -1,7 +1,7 @@
 relay1:1
 relay2:1
 relay3:1
-relay4:0
+relay4:1
 relay5:0
 relay6:1
 relay7:0
@@ -20,3 +20,5 @@ MOTOR:1
 
 relay7_UPDATED:04:03
 relay7_POWER:0
+relay4_UPDATED:04:03
+relay4_POWER:0
