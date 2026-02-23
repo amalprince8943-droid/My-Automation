@@ -4,7 +4,7 @@ relay3:1
 relay4:1
 relay5:0
 relay6:1
-relay7:0
+relay7:1
 relay8:1
 relay9:1
 relay10:1
@@ -18,7 +18,7 @@ ROOM2_TIME:12:12
 WATER LEVEL:100
 MOTOR:1
 
-relay7_UPDATED:04:03
+relay7_UPDATED:04:04
 relay7_POWER:0
 relay4_UPDATED:04:03
 relay4_POWER:0
