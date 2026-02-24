@@ -1,6 +1,6 @@
 relay1:1
 relay2:1
-relay3:1
+relay3:0
 relay4:0
 relay5:0
 relay6:0
