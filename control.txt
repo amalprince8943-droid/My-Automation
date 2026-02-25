@@ -11,7 +11,7 @@ relay10:0
 relay11:0
 relay12:0
 relay13:0
-relay14:1
+relay14:0
 CURRENT_TIME:21:56
 ROOM1_TIME:00:0111:12
 ROOM2_TIME:12:12
