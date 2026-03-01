@@ -20,4 +20,4 @@ MOTOR:0
 SE:0
 ON_TIME:15:10
 OFF_TIME:20
-firmware_version:2
+firmware_version:1
