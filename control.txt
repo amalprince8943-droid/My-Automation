@@ -5,15 +5,15 @@ relay4:0
 relay5:0
 relay6:0
 relay7:0
-relay8:0
-relay9:0
+relay8:1
+relay9:1
 relay10:0
 relay11:0
 relay12:0
 relay13:0
 relay14:0
 CURRENT_TIME:19:00
-ROOM1_TIME:23:27
+ROOM1_TIME:23:28
 ROOM2_TIME:12:12
 WATER LEVEL:100
 MOTOR:0
