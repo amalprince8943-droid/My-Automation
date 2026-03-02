@@ -1,4 +1,4 @@
-relay7:1
+relay7:0
 relay8:1
 relay9:0
 relay10:1
