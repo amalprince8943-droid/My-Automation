@@ -1,6 +1,6 @@
 relay7:1
 relay8:0
-relay9:0
+relay9:1
 relay10:0
-ROOM1_TIME:02:28
+ROOM1_TIME:02:29
 firmware_version:1
