@@ -11,3 +11,6 @@ relay9:0
 relay10:0
 ROOM1_TIME:19:02
 firmware_version:0
+SE:0
+SON:18:05
+SOFF:20:10
