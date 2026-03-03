@@ -3,4 +3,4 @@ relay8:0
 relay9:0
 relay10:0
 ROOM1_TIME:16:34
-firmware_version:1
+firmware_version:0
