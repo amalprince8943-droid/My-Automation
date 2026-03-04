@@ -1,3 +1,0 @@
-Relay7: ON
-Relay8: OFF
-Last Update: 144
