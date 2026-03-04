@@ -8,8 +8,8 @@ CURRENT_TIME:20:11
 relay7:0
 relay8:0
 relay9:0
-relay10:0
-ROOM1_TIME:20:10
+relay10:1
+ROOM1_TIME:20:11
 firmware_version:1
 SE:0
 SON:18:05
