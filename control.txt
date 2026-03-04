@@ -36,3 +36,5 @@ PROTOCOL:3
 BITS:32
 PROTOCOL:3
 ir command:1
+
+ir_command:0
