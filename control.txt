@@ -19,4 +19,4 @@ MOTOR:1
 IR_CODE:9de75e1d
 BITS:34
 PROTOCOL:-1
-ir_command:0
+ir_command:1
